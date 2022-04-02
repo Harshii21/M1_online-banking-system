@@ -1,1 +1,4 @@
-The idea for developing the mini project of online banking system in c language 
+The idea for developing the mini project of online banking system in c language
+
+* code for this project has around 153 lines 
+* This c program uses switch case to handle different logics like depositing cash, online transfer,password change
