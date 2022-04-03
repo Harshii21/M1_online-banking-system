@@ -1,0 +1,7 @@
+This project is a mini project focused on online mode of banking system.
+Here,  we can * create an account
+              * balance enquiry
+              * online transfer 
+              * changing password
+ First we have to create an account and then perform the banking operation as required.            
+      
